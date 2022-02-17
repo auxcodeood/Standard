@@ -1,6 +1,6 @@
 # Aux Standard Quality
 
-Aux Standard Quality is a minimalistic approach based on the Dutch Pragmatism.
+Aux Standard Quality is a minimalistic approach based on the Dutch Pragmatism and Pareto 80/20.
 
 ## Linter
 
