@@ -1,16 +1,24 @@
 # Aux Standard Quality
 
+Aux Standard Quality is a minimalistic approach based on the Dutch Pragmatism.
+
 ## Linter
+
+Every project must have a Linter.
 
 ### Style
 
-...
+Every Linter must be configured to check and reformat a standard style.
+
+We use the following standard style ...
 
 ### Cyclomatic Complexity
 
-Mew Projects: max
+Every project must have a Cyclomatic Complexity (CC) checked by the Linter.
 
-Exisotng Projects: max, reducing
+For new projects a max CC is set and no commit is allowed w/ a higher CC.
+
+For existing projects a max CC is set and no commit is allowed w/ a higher CC, unless they reduce it.
 
 ## Husky
 
