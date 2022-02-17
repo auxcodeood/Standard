@@ -17,6 +17,8 @@ We use the following standard style ...
 
 ### Cyclomatic Complexity
 
+https://en.wikipedia.org/wiki/Cyclomatic_complexity
+
 * Flutter
 * JavaScript/ TypeScript https://eslint.org/docs/rules/complexity
 
