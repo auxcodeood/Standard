@@ -6,6 +6,9 @@ Aux Standard Quality is a minimalistic approach based on the Dutch Pragmatism.
 
 Every project must have a Linter.
 
+* Flutter
+* JavaScript/ TypeScript https://eslint.org
+
 ### Style
 
 Every Linter must be configured to check and reformat a standard style.
@@ -13,6 +16,9 @@ Every Linter must be configured to check and reformat a standard style.
 We use the following standard style ...
 
 ### Cyclomatic Complexity
+
+* Flutter
+* JavaScript/ TypeScript https://eslint.org/docs/rules/complexity
 
 Every project must have a Cyclomatic Complexity (CC) checked by the Linter.
 
