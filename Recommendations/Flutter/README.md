@@ -1,4 +1,4 @@
-# Aux Standard Recommendation/ Flutter
+# Aux Standard Recommendation for Flutter
 
 ## 3-in-1
 
