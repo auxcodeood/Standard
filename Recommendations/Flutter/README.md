@@ -28,7 +28,7 @@ Current _State of the Art_.
 
 Since 2017.
 
-Modern Framework (Flutter) and Programming Language (Dart) which contain improvements compared to previous Framworks and Programming Languages.
+Modern Framework (Flutter) and Programming Language (Dart) which contain improvements compared to previous Frameworks and Programming Languages.
 
 * Great motivation for the programmers, because they use current and future tools and approaches.
 
@@ -46,4 +46,26 @@ Many UI Widgets Available
 
 * Native widgets for every platform (for example iOS, Android), which are very easy to use.
 
-_The above description can be explained and enhanced basedon specific questions._
+Excellent UI
+
+* Prebuild widgets offer great UI even without spending much time on designing.
+
+Debugger and DevTools
+
+* Just like browsers, Flutter has the possibility to debug and inspect applications to boost development speed.
+
+IDE support
+
+* Crucial point for developers, helping them write code faster and efficient.
+
+## Vast Community
+
+Flutter's documentation is very well-written and can be used from junior to senior.
+
+Plenty of forums, tutorials, plugins.
+
+## QA
+
+Testing is a particular benefit for Flutter, only one application needs to be extensively tested, compared to native apps, where Android and iOS must be tested separately.
+
+_The above description can be explained and enhanced based on specific questions._
