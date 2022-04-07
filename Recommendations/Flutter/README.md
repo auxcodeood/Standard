@@ -1,7 +1,7 @@
 # Aux Standard Recommendation for Flutter
 
 
-- [ ] sdоьяао
+- [x] sdоьяао
 - [ ] 
 ## Summary
 
