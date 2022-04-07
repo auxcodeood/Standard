@@ -1,8 +1,5 @@
 # Aux Standard Recommendation for Flutter
 
-
-- [x] sdоьяао
-- [ ] 
 ## Summary
 
 https://flutter.dev
