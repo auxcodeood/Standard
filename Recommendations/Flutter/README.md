@@ -46,6 +46,4 @@ Many UI Widgets Available
 
 * Native widgets for every platform (for example iOS, Android), which are very easy to use.
 
-
-
 _The above description can be explained and enhanced basedon specific questions._
