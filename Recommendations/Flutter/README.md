@@ -8,27 +8,43 @@ https://en.wikipedia.org/wiki/Flutter_(software)
 
 ## 4-in-1
 
+One codebase can be combiled for four platforms:
+
 iOS
 
 Android
 
 www
 
-Desktop
+Desktop App
+
+Saves _at least_ 50% of the effort, compared to developing individually for each platform.
+
+All developers must know one technology, compared to developing individually for each platform.
+
+* Much easier access to talent.
+* Much easer crew and resources management.
 
 ## Modern
 
-since 2017
+Current _State of the Art_.
 
-## Close to native performance
+Since 2017.
 
-Rendering is made with speeds of 60 FPS / 120 FPS
+Modern Framework (Flutter) and Programming Language (Dart) which contain improvements compared to previous Framworks and Programming Languages.
 
-## Fast development process 
+* Great motivation for the programmers, because they use current and future tools and approaches.
 
-Modern programming language
+## Indistingushable from Native Performance
 
-Hot reload
+Rendering is made with speeds of 60 FPS / 120 FPS.
 
-Many UI widgets available
+## Fast Development Process 
 
+Hot Reload
+
+* Every code change is immediately visible w/o time to rebuild.
+
+Many UI Widgets Available
+
+* Native widgets for every platform (for example iOS, Android), which are very easy to use.
