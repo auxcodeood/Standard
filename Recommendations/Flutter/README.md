@@ -22,9 +22,13 @@ All developers must know one technology, compared to developing individually for
 * Much easier access to talent.
 * Much easer crew and resources management.
 
+Quality
+
+* Quality is a particular benefit for Flutter, only one application needs to be extensively tested, compared to native apps, where Android and iOS must be tested separately.
+
 ## Modern
 
-Current _State of the Art_.
+Current State of the Art.
 
 Since 2017.
 
@@ -63,9 +67,3 @@ IDE support
 Flutter's documentation is very well-written and can be used from junior to senior.
 
 Plenty of forums, tutorials, plugins.
-
-## QA
-
-Testing is a particular benefit for Flutter, only one application needs to be extensively tested, compared to native apps, where Android and iOS must be tested separately.
-
-_The above description can be explained and enhanced based on specific questions._
