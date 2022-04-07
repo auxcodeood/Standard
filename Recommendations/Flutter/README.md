@@ -10,13 +10,10 @@ https://en.wikipedia.org/wiki/Flutter_(software)
 
 One codebase can be combiled for four platforms:
 
-iOS
-
-Android
-
-www
-
-Desktop App
+* iOS
+* Android
+* www
+* Desktop
 
 Saves _at least_ 50% of the effort, compared to developing individually for each platform.
 
