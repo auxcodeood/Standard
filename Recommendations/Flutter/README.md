@@ -15,7 +15,7 @@ One codebase can be compiled for four platforms:
 * www
 * Desktop
 
-Saves _at least_ 50% of the effort, compared to developing individually for each platform.
+Saves _at least_ 50% of the effort/budget, compared to developing individually for each platform.
 
 All developers must know one technology, compared to developing individually for each platform.
 
@@ -24,7 +24,7 @@ All developers must know one technology, compared to developing individually for
 
 Quality
 
-* Quality is a particular benefit for Flutter, only one application needs to be extensively tested, compared to native apps, where Android and iOS must be tested separately.
+* Quality is a particular benefit for Flutter, only one application needs to be extensively tested, compared to native apps, where iOS, Android, www and Desktop must be tested separately.
 
 ## Modern
 
