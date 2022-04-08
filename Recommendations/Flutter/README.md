@@ -62,6 +62,8 @@ IDE support
 
 * Crucial point for developers, helping them write code faster and efficient.
 
+Integration w/ Firebase.
+
 ## Vast Community
 
 Flutter's documentation is very well-written and can be used from junior to senior.
