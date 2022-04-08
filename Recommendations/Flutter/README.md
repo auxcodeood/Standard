@@ -8,7 +8,7 @@ https://en.wikipedia.org/wiki/Flutter_(software)
 
 ## 4-in-1
 
-One codebase can be combiled for four platforms:
+One codebase can be compiled for four platforms:
 
 * iOS
 * Android
