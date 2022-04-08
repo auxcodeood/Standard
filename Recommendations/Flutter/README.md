@@ -69,3 +69,5 @@ Integration w/ Firebase.
 Flutter's documentation is very well-written and can be used from junior to senior.
 
 Plenty of forums, tutorials, plugins.
+
+Aux Flutter Playground and Notes https://github.com/auxcodeood/Flutter
