@@ -13,8 +13,17 @@ What do they expect?
 ## Governance
 
 * Product Owner
+  * Must know
+    * what is to be done
+    * w/in what timeline
+    * win what budget
 * Proxymity Product Owner
-* IX/ UI
+  * Can support the Product Owner in the day-to-day work w/ the crew
+  * Is a backup for the Product Owner 
+* Executive Producer
+  * Responsibile for the delivery of the scope w/in milestones/ deadline, on budget and quality
+    * This includes a whole constellation of activities 
+* UX/ UI
 * Architect(s)
 * Lead Programmer(s)/Engineers
 * Programmer(s)/Engineer(s)
