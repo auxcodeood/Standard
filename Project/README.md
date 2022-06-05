@@ -15,6 +15,7 @@ What do they expect?
 Important principles
 
 * Non-Overlapping Roles
+* Do not remove people from the Project unless they are a disaster
 
 Roles
 
