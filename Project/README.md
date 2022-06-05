@@ -12,6 +12,12 @@ What do they expect?
 
 ## Governance
 
+Important principles
+
+* Non-Overlapping Roles
+
+Roles
+
 * Product Owner
   * Must know
     * what is to be done
