@@ -28,3 +28,18 @@ What do they expect?
 * Lead Programmer(s)/Engineers
 * Programmer(s)/Engineer(s)
 * Operations
+
+## Tooling
+
+* Playbook
+* UX/UI
+* Ticketing System (optionally w/ a Kanban or a Scrum board)
+* git
+* Chat
+
+## Process
+
+* Dailies
+* Kanban/ Scrum Process
+  * Refinement Sub-Process
+* Crew Velocity as a source of input for scope, budget and milestones/ deadlines questions
