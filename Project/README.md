@@ -35,6 +35,9 @@ Roles
 * Lead Programmer(s)/Engineers
 * Programmer(s)/Engineer(s)
 * Operations
+* Quality
+  * A complete checklist
+  * Automation
 
 ## Tooling
 
