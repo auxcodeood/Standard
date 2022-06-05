@@ -25,6 +25,8 @@ Roles
   * Must know
     * what is to be done
     * w/in what timeline
+      * milestones
+      * deadlines 
     * w/in what budget
 * Proxymity Product Owner
   * Can support the Product Owner in the day-to-day work w/ the crew
