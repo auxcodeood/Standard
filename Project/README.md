@@ -9,6 +9,8 @@ What do they expect?
 * Scope
 * Budget
 * Timeline
+  * Milestones
+  * Deadlines 
 
 ## Governance
 
