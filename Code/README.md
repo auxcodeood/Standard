@@ -10,6 +10,8 @@
 
 ## One function does one thing 
 
+## Refactoring is part of every DO
+
 ## Be a DOer and a Mentor
 
 ## Contunuously Improve
