@@ -10,7 +10,9 @@
 
 ## One function does one thing 
 
+## Be a DOer and a Mentor
+
 ## Contunuously Improve
 
 * Comments
-* 1-5 rows between {} 
+* 1-5 rows between {}
