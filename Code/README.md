@@ -2,7 +2,11 @@
 
 ## We are a service company
 
+* We sell neither coding nor code, but solutions via service
+
 ## Work w/ the customer on what they need, not what they want 
+
+* Includes Roadmap w/ Timine
 
 ## Comments
 
