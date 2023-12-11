@@ -6,7 +6,7 @@
 
 ## One function does one thing 
 
-## Contunuously Imrpove
+## Contunuously Improve
 
 * Comments
 * 1-5 rows between {} 
