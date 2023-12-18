@@ -10,11 +10,15 @@
 
 ## Comments
 
+* Aha! moment by Kent Beck
+
 ## 1-5 rows between {} 
 
 ## One function does one thing 
 
 ## Refactoring is part of every DO
+
+* No "we need now six months to refactor"
 
 ## Be a DOer and a Mentor
 
