@@ -1,5 +1,11 @@
 # Code
 
+## Principles
+
+* These coding standards are minimalistic
+* They follow the Parato principle
+  * If we take care of the few most imortan things, the rest will solve itself. 
+
 ## We are a service company
 
 * We sell neither coding nor code, but solutions via service
