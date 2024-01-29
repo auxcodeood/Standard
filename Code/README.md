@@ -19,6 +19,8 @@
 ## Refactoring is part of every DO
 
 * No "we need now six months to refactor"
+  * This drives the customers mad
+  * It is very difficult to impossible to budget and justify (unless it brings direct value to the business, which such kind of refactoring does not) 
 
 ## Be a DOer and a Mentor
 
