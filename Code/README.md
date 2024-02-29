@@ -17,6 +17,8 @@
 ## Comments
 
 * Aha! moment by Kent Beck
+  * https://tidyfirst.substack.com/p/add-comment
+  * https://tidyfirst.substack.com/p/delete-redundant-comment 
 
 ## 1-5 rows between {} 
 
